@@ -1,4 +1,4 @@
-# First Excises: Hello World app
+# First Excise: Hello World app
 # YouTube Vid: Learn Python - Full Course for Beginners
 # URL: https://youtu.be/rfscVS0vtbw
 

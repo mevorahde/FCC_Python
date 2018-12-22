@@ -1,4 +1,4 @@
-# 16th Excises: Building a better calculator
+# 16th Excisese: Building a better calculator
 # YouTube Vid: Learn Python - Full Course for Beginners
 # URL: https://youtu.be/rfscVS0vtbw
 
