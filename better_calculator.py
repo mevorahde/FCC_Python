@@ -1,6 +1,9 @@
 # 16th Excises: Building a better calculator
-# YouTube Vid: Learn Python - Full Course for Beginners
-# URL: https://youtu.be/rfscVS0vtbw
+# # YouTube Vid: Learn Python - Full Course for Beginners
+# # URL: https://youtu.be/rfscVS0vtbw
+# Added personalized additions away from the tutorial.
+# This includes: add a try/except for validation function, an intro message for users,
+# and put the different operations into a function.
 
 print("Welcome to a simple calculator. "
       "Where two numbers enter and with one dangerous operation, only one number leaves.")
