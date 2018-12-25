@@ -1,4 +1,4 @@
-# 14th Excises: If Statements
+# 14th Excisese: If Statements
 # YouTube Vid: Learn Python - Full Course for Beginners
 # URL: https://youtu.be/rfscVS0vtbw
 

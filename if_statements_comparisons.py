@@ -1,4 +1,4 @@
-# 15th Excises: If Statements and Comparisons
+# 15th Excisese: If Statements and Comparisons
 # YouTube Vid: Learn Python - Full Course for Beginners
 # URL: https://youtu.be/rfscVS0vtbw
 
